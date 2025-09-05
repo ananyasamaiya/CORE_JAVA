@@ -1,0 +1,5 @@
+class XYZ {
+    class UVW {
+        
+    }
+}
