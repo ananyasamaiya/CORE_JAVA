@@ -1,0 +1,3 @@
+class HDog extends Dog {
+    
+}
