@@ -1,0 +1,5 @@
+interface WW{
+    class Q{
+        
+    }
+}

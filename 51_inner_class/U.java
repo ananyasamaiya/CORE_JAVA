@@ -1,0 +1,5 @@
+class U {
+    interface EE {
+        
+    }    
+}

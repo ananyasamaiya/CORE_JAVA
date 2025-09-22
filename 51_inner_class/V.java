@@ -1,0 +1,5 @@
+interface V {
+    interface QQ {
+        
+    }
+}
